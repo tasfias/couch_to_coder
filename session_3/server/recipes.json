@@ -1,0 +1,321 @@
+[
+    {
+        "name": "Spaghetti Carbonara",
+        "time": "30 minutes",
+        "cuisine": "Italian",
+        "ingredients": [
+            "200g spaghetti",
+            "2 large eggs",
+            "100g grated Parmesan cheese",
+            "150g bacon, chopped",
+            "2 cloves garlic, minced",
+            "1/2 teaspoon black pepper",
+            "Salt to taste"
+        ],
+        "steps": [
+            "Cook spaghetti according to package instructions.",
+            "In a bowl, whisk eggs and grated Parmesan cheese.",
+            "Cook bacon in a pan until crispy, then add minced garlic.",
+            "Drain spaghetti and add it to the pan with bacon and garlic.",
+            "Remove from heat, add the egg and cheese mixture, and toss quickly to coat the spaghetti.",
+            "Season with black pepper and salt to taste.",
+            "Serve immediately."
+        ]
+    },
+    {
+        "name": "Chicken Tikka Masala",
+        "time": "1 hour",
+        "cuisine": "Indian",
+        "ingredients": [
+            "500g chicken breast, cut into pieces",
+            "200g yogurt",
+            "400g tomato puree",
+            "1 large onion, finely chopped",
+            "3 cloves garlic, minced",
+            "1 tablespoon ginger, minced",
+            "1 tablespoon garam masala",
+            "1 teaspoon turmeric",
+            "1 teaspoon cumin",
+            "1 teaspoon coriander",
+            "100ml cream",
+            "2 tablespoons oil",
+            "Salt to taste"
+        ],
+        "steps": [
+            "Marinate chicken in yogurt, garlic, ginger, and spices for 30 minutes.",
+            "Heat oil in a pan and cook the marinated chicken until browned.",
+            "Remove chicken and sauté chopped onions in the same pan.",
+            "Add tomato puree, spices, and cook until the mixture thickens.",
+            "Add the chicken back to the pan and simmer for 15 minutes.",
+            "Stir in cream and cook for another 5 minutes.",
+            "Serve with rice or naan."
+        ]
+    },
+    {
+        "name": "Chocolate Chip Cookies",
+        "time": "25 minutes",
+        "cuisine": "American",
+        "ingredients": [
+            "250g flour",
+            "200g butter, softened",
+            "150g sugar",
+            "150g brown sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "200g chocolate chips"
+        ],
+        "steps": [
+            "Preheat oven to 375°F (190°C).",
+            "In a bowl, cream together butter, sugar, and brown sugar.",
+            "Beat in eggs and vanilla extract.",
+            "Mix in flour, baking soda, and salt.",
+            "Fold in chocolate chips.",
+            "Drop spoonfuls of dough onto a baking sheet.",
+            "Bake for 10-12 minutes or until golden brown.",
+            "Let cool before serving."
+        ]
+    },
+    {
+        "name": "Omelette",
+        "cuisine": "French",
+        "time": "30 minutes",
+        "ingredients": [
+            "3 eggs",
+            "1 tbsp butter",
+            "Salt",
+            "Pepper"
+        ],
+        "steps": [
+            "Melt butter in pan",
+            "Whisk eggs",
+            "Add salt and pepper",
+            "Cook slowly",
+            "Hope for the best"
+        ]
+    },
+    {
+        "name": "Burger",
+        "cuisine": "American",
+        "time": "20 minutes",
+        "ingredients": [
+            "Beef",
+            "Bun"
+        ],
+        "steps": [
+            "Cook beef",
+            "Put in bun"
+        ]
+    },
+    {
+        "name": "Beef Tacos",
+        "time": "25 minutes",
+        "cuisine": "Mexican",
+        "ingredients": [
+            "500g ground beef",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 packet taco seasoning",
+            "8 taco shells",
+            "1 cup shredded lettuce",
+            "1 cup shredded cheddar cheese",
+            "1 tomato, diced",
+            "Sour cream to serve"
+        ],
+        "steps": [
+            "Cook ground beef in a skillet until browned.",
+            "Add onion and garlic, cook until softened.",
+            "Stir in taco seasoning and a bit of water, simmer for 5 minutes.",
+            "Warm taco shells according to package instructions.",
+            "Fill shells with beef mixture, lettuce, tomato, and cheese.",
+            "Top with sour cream and serve."
+        ]
+    },
+    {
+        "name": "Teriyaki Salmon",
+        "time": "20 minutes",
+        "cuisine": "Japanese",
+        "ingredients": [
+            "2 salmon fillets",
+            "1/4 cup soy sauce",
+            "2 tablespoons honey",
+            "1 tablespoon rice vinegar",
+            "1 tablespoon sesame oil",
+            "1 clove garlic, minced",
+            "1 teaspoon ginger, grated",
+            "Sesame seeds for garnish",
+            "Sliced green onions for garnish"
+        ],
+        "steps": [
+            "Whisk soy sauce, honey, vinegar, sesame oil, garlic, and ginger in a bowl.",
+            "Marinate salmon in the sauce for 10 minutes.",
+            "Heat a nonstick skillet over medium heat.",
+            "Cook salmon skin-side down for 4-5 minutes, then flip and cook 2-3 more minutes.",
+            "Pour remaining marinade into the pan and simmer until thickened.",
+            "Serve salmon with sauce drizzled on top, garnished with sesame seeds and green onions."
+        ]
+    },
+    {
+        "name": "Vegetable Stir Fry",
+        "time": "20 minutes",
+        "cuisine": "Chinese",
+        "ingredients": [
+            "2 tablespoons vegetable oil",
+            "1 bell pepper, sliced",
+            "1 cup broccoli florets",
+            "1 carrot, julienned",
+            "1 zucchini, sliced",
+            "2 tablespoons soy sauce",
+            "1 tablespoon hoisin sauce",
+            "1 clove garlic, minced",
+            "1 teaspoon sesame oil"
+        ],
+        "steps": [
+            "Heat vegetable oil in a wok over high heat.",
+            "Add garlic and stir for 30 seconds.",
+            "Add all vegetables and stir-fry for 5-7 minutes.",
+            "Add soy sauce and hoisin sauce, mix well.",
+            "Drizzle with sesame oil before serving."
+        ]
+    },
+    {
+        "name": "Greek Salad",
+        "time": "15 minutes",
+        "cuisine": "Greek",
+        "ingredients": [
+            "2 cucumbers, sliced",
+            "3 tomatoes, chopped",
+            "1/2 red onion, thinly sliced",
+            "1/2 cup kalamata olives",
+            "100g feta cheese, crumbled",
+            "2 tablespoons olive oil",
+            "1 tablespoon red wine vinegar",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste"
+        ],
+        "steps": [
+            "In a large bowl, combine cucumbers, tomatoes, onion, and olives.",
+            "In a small bowl, whisk olive oil, vinegar, oregano, salt, and pepper.",
+            "Pour dressing over salad and toss gently.",
+            "Top with crumbled feta cheese and serve."
+        ]
+    },
+    {
+        "name": "Butter Chicken",
+        "time": "40 minutes",
+        "cuisine": "Indian",
+        "ingredients": [
+            "500g chicken breast, cubed",
+            "2 tablespoons butter",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 tablespoon ginger, grated",
+            "1 teaspoon garam masala",
+            "1 teaspoon cumin",
+            "1 teaspoon paprika",
+            "400g canned tomatoes",
+            "200ml heavy cream",
+            "Salt to taste"
+        ],
+        "steps": [
+            "Melt butter in a pan and sauté onion until golden.",
+            "Add garlic and ginger, cook 1 minute.",
+            "Add spices and cook for 30 seconds.",
+            "Add tomatoes and simmer for 10 minutes.",
+            "Blend the sauce if desired, then return to heat.",
+            "Add chicken and cook until done.",
+            "Stir in cream, simmer for 5 more minutes, and serve."
+        ]
+    },
+    {
+        "name": "Shrimp Scampi",
+        "time": "25 minutes",
+        "cuisine": "Italian-American",
+        "ingredients": [
+            "300g shrimp, peeled and deveined",
+            "200g spaghetti",
+            "3 tablespoons butter",
+            "2 tablespoons olive oil",
+            "4 cloves garlic, minced",
+            "1/4 teaspoon red pepper flakes",
+            "1/4 cup white wine",
+            "Juice of 1 lemon",
+            "2 tablespoons chopped parsley",
+            "Salt and pepper to taste"
+        ],
+        "steps": [
+            "Cook spaghetti according to package instructions.",
+            "In a large pan, heat butter and olive oil.",
+            "Add garlic and red pepper flakes, sauté for 1 minute.",
+            "Add shrimp and cook until pink.",
+            "Add white wine and lemon juice, simmer for 2 minutes.",
+            "Drain pasta and toss with shrimp and sauce.",
+            "Sprinkle with parsley and serve."
+        ]
+    },
+    {
+        "name": "Pad Thai",
+        "time": "30 minutes",
+        "cuisine": "Thai",
+        "ingredients": [
+            "200g rice noodles",
+            "2 tablespoons vegetable oil",
+            "2 eggs",
+            "200g chicken breast, sliced",
+            "1 cup bean sprouts",
+            "1/4 cup crushed peanuts",
+            "2 green onions, chopped",
+            "3 tablespoons fish sauce",
+            "1 tablespoon soy sauce",
+            "1 tablespoon tamarind paste",
+            "1 tablespoon brown sugar"
+        ],
+        "steps": [
+            "Soak rice noodles in warm water until softened.",
+            "Mix fish sauce, soy sauce, tamarind paste, and brown sugar in a bowl.",
+            "Heat oil in a pan, cook chicken until done.",
+            "Push chicken aside, scramble eggs in the same pan.",
+            "Add noodles and sauce, stir-fry until combined.",
+            "Add bean sprouts and green onions, toss well.",
+            "Serve with peanuts sprinkled on top."
+        ]
+    },
+    {
+        "name": "Miso Soup",
+        "time": "15 minutes",
+        "cuisine": "Japanese",
+        "ingredients": [
+            "4 cups dashi stock",
+            "3 tablespoons miso paste",
+            "100g tofu, cubed",
+            "2 green onions, sliced",
+            "1 sheet nori, sliced"
+        ],
+        "steps": [
+            "Heat dashi stock in a pot over medium heat.",
+            "Add tofu and nori, simmer for 5 minutes.",
+            "Dissolve miso paste in a ladle with some hot broth, then stir into soup.",
+            "Add green onions and serve hot."
+        ]
+    },
+    {
+        "name": "Caprese Salad",
+        "time": "10 minutes",
+        "cuisine": "Italian",
+        "ingredients": [
+            "3 tomatoes, sliced",
+            "200g fresh mozzarella, sliced",
+            "Fresh basil leaves",
+            "2 tablespoons olive oil",
+            "1 tablespoon balsamic glaze",
+            "Salt and pepper to taste"
+        ],
+        "steps": [
+            "Arrange tomato and mozzarella slices on a plate.",
+            "Tuck basil leaves between slices.",
+            "Drizzle with olive oil and balsamic glaze.",
+            "Season with salt and pepper, then serve."
+        ]
+    }
+]
